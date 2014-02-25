@@ -6,7 +6,13 @@ Net::DNS::Fingerprint
 
 Installation
 ------------
-$ perl Makefile.PL
-$ make
-$ make test
-$ make install
+As usual
+``` shell
+> perl Makefile.PL
+> make
+> make test
+> make install
+```
+
+ready to go! :)
+Call "fpdns" for usage info.
